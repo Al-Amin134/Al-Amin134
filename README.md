@@ -3,7 +3,7 @@
 <h1 align="center">This is Md.Al-Amin Babu</h1>
 <h3 align="center">Department of Computer Science & Engineering</h3>
 <h4 align="center">University of Rajshahi</h4>
-<img align="right"alt="ERROR"width="400" src="https://images.app.goo.gl/QBVixkLLopPc8WTG8">
+<img align="right"alt="ERROR"width="400" src="![image](https://github.com/Al-Amin134/Al-Amin134/assets/112581855/5f03f555-8dc3-4d81-a5e7-c3d4dd4d04c7)">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
