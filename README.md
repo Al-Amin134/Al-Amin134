@@ -3,9 +3,7 @@
 <h1 align="center">This is Md.Al-Amin Babu</h1>
 <h3 align="center">Department of Computer Science & Engineering</h3>
 <h4 align="center">University of Rajshahi</h4>
-<img align="right"alt="ERROR"width="400" src="![image](https://github.com/Al-Amin134/Al-Amin134/assets/112581855/5f03f555-8dc3-4d81-a5e7-c3d4dd4d04c7)">
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<img align="right"alt="coding"width="400" src="https://i.pinimg.com/originals/4b/51/03/4b510366962a06bd830e3166ddef7260.gif"</h4>
 
 
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100057870313395&mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100057870313395&mibextid=zbwkwl" height="30" width="40" /></a>
